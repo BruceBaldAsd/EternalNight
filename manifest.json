@@ -1,0 +1,16 @@
+{
+    "display": "standalone",
+    "icons": [
+        {
+            "sizes": "192x192",
+            "src": "logo-192x192.png",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "blue",
+    "background_color": "#ffffff",
+    "lang": "zh-CN",
+    "name": "开局一把剑",
+    "short_name": "永夜",
+    "start_url": "/"
+}
